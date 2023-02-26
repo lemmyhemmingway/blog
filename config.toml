@@ -62,4 +62,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "trashcan"
         name = "Trashcan"
-        url = "/trashcan"
+        url = "/trash"
