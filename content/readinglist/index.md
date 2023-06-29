@@ -11,6 +11,3 @@ draft: false
 | Let's Go Further    | Alex Edwards    | **Reading**    |
 | Docker Up & Running | Sean P. Kane     | **Reading**    |
 
-
-
-
