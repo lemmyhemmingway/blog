@@ -22,7 +22,7 @@ title = "Blog"
 
   avatar = 'null'
   name = 'LH'
-  bio = 'Discover fresh context'
+  bio = "Don't Care"
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
