@@ -1,6 +1,6 @@
 baseURL = "https://hugo-paper.vercel.app/"
 # title = "Hugo Themes"
-author = "Lemmy Hemmingway"
+author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -11,18 +11,18 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "paper"
-title = "Blog"
+theme = "hugo-paper"
+title = "Paper"
 
 [params]
   color = 'linen'
 
-  # twitter = 'null'
-  github = 'lemmyhemmingway'
-  # instagram = 'null'
+  twitter = 'nanxiaobei'
+  github = 'nanxiaobei'
+  instagram = 'nan.xiaobei'
 
-  avatar = 'null'
-  name = 'LH'
+  avatar = 'nanxiaobei@gmail.com'
+  name = 'Lee'
   bio = 'Discover fresh context'
 # ------------------------------
 
@@ -36,20 +36,15 @@ title = "Blog"
 
 [menu]
 
-  # [[menu.main]]
-    # identifier = "about"
-    # name = "About"
-    # url = "/about/"
-    # weight = 10
-  # [[menu.main]]
-    # identifier = "contact"
-    # name = "Contact"
-    # url = "/contact/"
-    # weight = 10
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
     weight = 10
 
 [taxonomies]
