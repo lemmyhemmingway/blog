@@ -183,6 +183,7 @@ table {
   /* 2 */
   border-collapse: collapse;
   /* 3 */
+  white-space: nowrap;
 }
 
 /*
