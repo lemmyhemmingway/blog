@@ -1,8 +1,9 @@
 ---
-title: 2024 Reading List
+title: Reading List
 date: 2023-12-17
 ---
 
+#### Books
 
 | #  | Book Title                           | Author                     |
 |----|--------------------------------------|----------------------------|
