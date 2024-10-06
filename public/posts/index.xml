@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:38:37 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Istanbul Hatirasi</title>
+      <link>http://localhost:1313/posts/notes/istanbul-hatirasi/</link>
+      <pubDate>Mon, 07 Oct 2024 00:38:37 +0300</pubDate>
+      <guid>http://localhost:1313/posts/notes/istanbul-hatirasi/</guid>
+      <description>test</description>
+    </item>
     <item>
       <title>2024 Reading List</title>
       <link>http://localhost:1313/posts/readinglist/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/readinglist/</guid>
-      <description> Name Start End Notes Thinking Fast &amp;amp; Slow 2023-12-17 Programming Elixir 2024-01-19 Tidy First?: A Personal Exercise in Empirical Software Design 2024-01-21 2024-01-27 Notes Zero to Production in Rust 2024-01-21 The Elements of Computing Systems: Building a Modern Computer from First Principles </description>
+      <description> # Book Title Author Notes 1 Thinking, Fast and Slow Daniel Kahneman 2 Sokak Kodcusu SSG 3 Database Design and Implementation Edward Sciore 4 Understanding Software Dynamics Brendan Gregg 5 Kubernetes: Up and Running Kelsey Hightower, Brendan Burns, Joe Beda 6 The Elements of Computing Systems Noam Nisan, Shimon Schocken 7 Programming Elixir Dave Thomas 8 The Kubernetes Book Nigel Poulton 9 Zero To Production in Rust Luca Palmieri 10 Systems Performance Brendan Gregg 11 Martin Eden Jack London 12 Istanbul Hatirasi Ahmet Umit notlar </description>
     </item>
   </channel>
 </rss>

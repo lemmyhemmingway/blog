@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Blog</description>
+    <title>Notes on Blog</title>
+    <link>http://localhost:1313/tags/notes/</link>
+    <description>Recent content in Notes on Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:38:37 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Istanbul Hatirasi</title>
       <link>http://localhost:1313/posts/notes/istanbul-hatirasi/</link>
       <pubDate>Mon, 07 Oct 2024 00:38:37 +0300</pubDate>
       <guid>http://localhost:1313/posts/notes/istanbul-hatirasi/</guid>
       <description>Yazar: Ahmet Umit&#xA;Baskomser Nevzat serisi kitaplari:&#xA;Çıplak Beyoğlu Rapsodisi Kayıp Göl İstanbul Hatırası Aşk Düşünürken Dört Mevsim İstanbul Yalnızım Cinayet Listesi Cinayet Lokasyon Sikke Üzerindeki Tasvir 1. Necdet Denizel Sarayburnu, Atatürk Heykeli önünde Kral Byzas sikkesi &amp;ldquo;Byzantion&amp;rdquo; ve Ay Tanrıçası Hekate&amp;rsquo;nin büstü 2. Mukkader Kınacı Çemberlitaş Sütunu altında İmparator I. Konstantin sikkesi İmparatorun büstü ve kentin sembolü 3. Şaban Duruca Altınkapı Roma dönemine ait bir sikke Roma dönemine ait tasvir 4.</description>
-    </item>
-    <item>
-      <title>2024 Reading List</title>
-      <link>http://localhost:1313/posts/readinglist/</link>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/readinglist/</guid>
-      <description> # Book Title Author 1 Thinking, Fast and Slow Daniel Kahneman 2 Sokak Kodcusu Sedat Kapanoglu 3 Database Design and Implementation Edward Sciore 4 Understanding Software Dynamics Brendan Gregg 5 Kubernetes: Up and Running Kelsey Hightower, Brendan Burns, Joe Beda 6 The Elements of Computing Systems Noam Nisan, Shimon Schocken 7 Programming Elixir Dave Thomas 8 The Kubernetes Book Nigel Poulton 9 Zero To Production in Rust Luca Palmieri 10 Systems Performance Brendan Gregg 11 İstanbul Hatırası Ahmet Ümit 12 Martin Eden Jack London </description>
     </item>
   </channel>
 </rss>

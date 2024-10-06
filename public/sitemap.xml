@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/readinglist/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/notes/istanbul-hatirasi/</loc>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/readinglist/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
