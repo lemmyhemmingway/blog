@@ -6,13 +6,27 @@
     <description>Recent content on Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Oct 2024 00:38:37 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 00:21:07 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Watch Collection</title>
+      <link>http://localhost:1313/posts/notes/watch-collection/</link>
+      <pubDate>Mon, 23 Dec 2024 00:21:07 +0300</pubDate>
+      <guid>http://localhost:1313/posts/notes/watch-collection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papers I Read</title>
+      <link>http://localhost:1313/posts/notes/papers-i-read/</link>
+      <pubDate>Mon, 23 Dec 2024 00:17:03 +0300</pubDate>
+      <guid>http://localhost:1313/posts/notes/papers-i-read/</guid>
+      <description>Papers I Read Let&amp;rsquo;s start the first one: Programming Considered as a Human Activity </description>
+    </item>
+    <item>
       <title>Istanbul Hatirasi</title>
-      <link>http://localhost:1313/posts/notes/istanbul-hatirasi/</link>
+      <link>http://localhost:1313/archive/istanbul-hatirasi/</link>
       <pubDate>Mon, 07 Oct 2024 00:38:37 +0300</pubDate>
-      <guid>http://localhost:1313/posts/notes/istanbul-hatirasi/</guid>
+      <guid>http://localhost:1313/archive/istanbul-hatirasi/</guid>
       <description>Yazar: Ahmet Umit&#xA;Baskomser Nevzat serisi kitaplari:&#xA;Çıplak Beyoğlu Rapsodisi Kayıp Göl İstanbul Hatırası Aşk Düşünürken Dört Mevsim İstanbul Yalnızım Cinayet Listesi Cinayet Lokasyon Sikke Üzerindeki Tasvir 1. Necdet Denizel Sarayburnu, Atatürk Heykeli önünde Kral Byzas sikkesi &amp;ldquo;Byzantion&amp;rdquo; ve Ay Tanrıçası Hekate&amp;rsquo;nin büstü 2. Mukkader Kınacı Çemberlitaş Sütunu altında İmparator I. Konstantin sikkesi İmparatorun büstü ve kentin sembolü 3. Şaban Duruca Altınkapı Roma dönemine ait bir sikke Roma dönemine ait tasvir 4.</description>
     </item>
     <item>

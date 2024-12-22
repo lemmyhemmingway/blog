@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Polisiye on Blog</title>
-    <link>http://localhost:1313/tags/polisiye/</link>
-    <description>Recent content in Polisiye on Blog</description>
+    <title>Archives on Blog</title>
+    <link>http://localhost:1313/archive/</link>
+    <description>Recent content in Archives on Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:38:37 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/polisiye/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Istanbul Hatirasi</title>
       <link>http://localhost:1313/archive/istanbul-hatirasi/</link>

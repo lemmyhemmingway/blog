@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/notes/istanbul-hatirasi/</loc>
-    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+    <lastmod>2024-12-23T00:21:07+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-23T00:21:07+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/notes/watch-collection/</loc>
+    <lastmod>2024-12-23T00:21:07+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/notes/papers-i-read/</loc>
+    <lastmod>2024-12-23T00:17:03+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/istanbul-hatirasi/</loc>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/notes/</loc>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/polisiye/</loc>
+    <lastmod>2024-10-07T00:38:37+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-07T00:38:37+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/readinglist/</loc>
@@ -17,7 +35,5 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

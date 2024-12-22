@@ -1,7 +1,7 @@
 ---
 title: "Istanbul Hatirasi"
 date: 2024-10-07T00:38:37+03:00
-draft: false
+draft: true
 tags: [notes, polisiye]
 ---
 
