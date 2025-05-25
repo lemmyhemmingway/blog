@@ -3,9 +3,18 @@ module:
         extended: true
         min: "0.87.0"
 
+Menus:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: -100
+          params:
+            icon: home
+            newTab: true
 params:
     mainSections:
-        - post
+        - posts
     featuredImageField: image
     rssFullContent: true
     favicon:
