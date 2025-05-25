@@ -1,0 +1,4 @@
+baseURL = 'https://yasincaykur.com'
+languageCode = 'en-us'
+title = "Lemmy Hemmingway's Dump"
+theme = "hugo-theme-stack"
