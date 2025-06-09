@@ -21,7 +21,7 @@ params:
 
     footer:
         since:
-        customText:
+        customText: Placeholder
 
     dateFormat:
         published: Jan 02, 2006
@@ -30,11 +30,11 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: placeholder
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpeg
 
     article:
         headingAnchor: false
@@ -127,7 +127,8 @@ params:
             id:
 
     widgets:
-        homepage: []
+        homepage: 
+        - type: categories
         page: []
 
     opengraph:
