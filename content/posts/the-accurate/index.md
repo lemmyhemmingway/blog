@@ -4,7 +4,7 @@ date: 2025-06-09T10:00:00+03:00
 draft: false
 description: "A humorous take on Mr. Jones' Accurate model watch — where timekeeping meets existential crisis."
 tags: ["Mr. Jones", "watch", "humor", "existentialism"]
-categories: ["Watch", "Humor"]
+categories: ["Watch"]
 image: "cover.jpg"
 ---
 

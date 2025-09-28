@@ -5,6 +5,7 @@ date: 2025-09-28
 draft: false
 tags: ["kubernetes", "certification", "kcna", "kcsa", "kubeastronaut"]
 image: "cover.png"
+categories: ["kubeastronaut", "kubernetes", "kcna"]
 ---
 
 January: I made a heroic promise to myself.  
