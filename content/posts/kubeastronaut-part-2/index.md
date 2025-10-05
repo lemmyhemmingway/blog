@@ -3,9 +3,9 @@ title: "Kubeastronaut Journey – Part 2"
 date: 2025-10-05
 draft: false
 summary: "The second checkpoint of the Kubeastronaut journey — diving into security with the KCSA exam, limited resources, NotebookLM-powered notes, and personal reflections on the learning path."
-image: "images/kubeastronaut-part2-cover.jpg"
+image: "cover.png"
 tags: ["kubernetes", "kcsa"]
-categories: ["Kubernetes Journey"]
+categories: ["kubeastronaut"]
 readingTime: true
 showToc: false
 ---
