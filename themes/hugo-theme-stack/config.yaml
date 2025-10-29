@@ -11,7 +11,14 @@ Menus:
           weight: -100
           params:
             icon: home
-            newTab: true
+            newTab: false
+        - identifier: posts
+          name: Posts
+          url: /posts
+          weight: -100
+          params:
+            icon: archives
+            newTab: false
 params:
     mainSections:
         - posts
