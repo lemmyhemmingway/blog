@@ -3,6 +3,7 @@ title: "Kubeastronaut Adventure – Part 3"
 date: 2025-11-22
 draft: false
 tags: ["kubernetes", "certification", "ckad"]
+categories: ["kubeastronaut", "kubernetes", "ckad"]
 image: "image.webp"
 ---
 
