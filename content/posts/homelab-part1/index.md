@@ -3,7 +3,7 @@ title: "Homelab Journey - Part 1: The Base"
 date: 2025-10-29
 draft: false
 image: "cover.webp"
-tags: ["homelab", "kubernetes", "cka", "ckad", "cks"]
+tags: ["homelab"]
 categories: ["homelab", "Kubernetes"]
 ---
 

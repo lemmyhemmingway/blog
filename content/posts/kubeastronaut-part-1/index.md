@@ -3,7 +3,7 @@
 title: "Kubeastronaut Adventure – Part 1"
 date: 2025-09-28
 draft: false
-tags: ["kcna"] 
+tags: ["kcna", "kubeastronaut", "kubernetes"] 
 image: "cover.webp"
 categories: ["kubeastronaut", "kubernetes", "kcna"]
 ---
